@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Aug 22 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Create pylint.yml ([@iobagul2000](https://github.com/iobagul2000))
+
+#### Authors: 1
+
+- SEMAKA ([@iobagul2000](https://github.com/iobagul2000))
+
+---
+
 # v0.0.1 (Tue Aug 22 2023)
 
 :tada: This release contains work from a new contributor! :tada:
