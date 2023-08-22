@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "iobagul2000",
+  "repo": "container-3a4uhju",
+  "name": "iobagul2000",
+  "email": "grecianuion2000@gmail.com",
+}
